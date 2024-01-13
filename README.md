@@ -1,0 +1,11 @@
+Edgar Ulises Peña Guzmán
+
+Ingeniero en sistemas computacionales.
+Toluca, México.
+
+Mis intereses es la programación de app moviles y de escritorio, desarrollo de paginas html (Back-end y front-end)
+
+<!---
+EdgarGIs/EdgarGIs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
